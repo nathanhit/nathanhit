@@ -2,7 +2,7 @@
 <!-- Copy assets/profile-banner.svg into that repo at the same path. -->
 <h3 align="center">Nathan Mohit</h3>
 <p align="center">
-  <s>another dev portfolio</s> → <a href="https://nathanmohit.com"><strong>nathanmohit.com</strong></a>
+  <s>my github doesn't have anything public</s> → <a href="https://nathanmohit.com"><strong>nathanmohit.com</strong></a>
 </p>
 <p align="center">
   <sub>i made a whole website to use as a portfolio, please don't ask me to make a cool github profile too</sub>
