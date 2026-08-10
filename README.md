@@ -1,5 +1,5 @@
 <!-- Copy into github.com/nathanhit/nathanhit README.md and pin the repo. -->
-<!-- Copy assets/profile-banner.svg into the same repo (e.g. assets/profile-banner.svg). -->
+<!-- Copy assets/profile-banner.svg into that repo at the same path. -->
 <h3 align="center">Nathan Mohit</h3>
 <p align="center">
   <s>another dev portfolio</s> → <a href="https://nathanmohit.com"><strong>nathanmohit.com</strong></a>
@@ -13,21 +13,11 @@
   <a href="https://www.linkedin.com/in/nathanmohit/">linkedin</a>
 </p>
 <br/>
-<!-- Option A (recommended): subtle self-hosted SVG — no Heroku typing proxy -->
 <p align="center">
   <a href="https://nathanmohit.com">
-    <img src="https://raw.githubusercontent.com/nathanhit/nathanhit/main/assets/profile-banner.svg" alt="github profile completeness bar" />
+    <img src="./assets/profile-banner.svg" alt="terminal session — open nathanmohit.com" width="480"/>
   </a>
 </p>
-<!--
-Option B — no animation, same joke (delete Option A, uncomment):
-<p align="center">
-  <a href="https://nathanmohit.com"><img src="https://img.shields.io/badge/portfolio-nathanmohit.com-d2a8ff?style=flat-square&labelColor=161b22" alt="nathanmohit.com" /></a>
-</p>
-Option C — one custom banner (export SVG, host in repo): https://github.com/ryanpolasky/ryme.md
-  → try "Sleek" or "Terminal", turn loop off, one line: "→ nathanmohit.com"
-Option D — drop the visual entirely; your subline already carries the bit.
--->
 <br/>
 <details>
 <summary>if you're still scrolling 👀</summary>
