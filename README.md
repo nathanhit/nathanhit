@@ -15,7 +15,7 @@
 <br/>
 <p align="center">
   <a href="https://nathanmohit.com">
-    <img src="./assets/profile-banner.svg" alt="terminal session — open nathanmohit.com" width="480"/>
+    <img src="assets/profile-banner.svg" alt="terminal session — open nathanmohit.com" width="480"/>
   </a>
 </p>
 <br/>
