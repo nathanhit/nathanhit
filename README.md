@@ -1,19 +1,37 @@
 <!-- Copy into github.com/nathanhit/nathanhit README.md and pin the repo. -->
-<h1 align="center">Nathan Mohit</h1>
+<!-- Copy assets/profile-banner.svg into the same repo (e.g. assets/profile-banner.svg). -->
+<h3 align="center">Nathan Mohit</h3>
 <p align="center">
-  <a href="https://nathanmohit.com"><strong>nathanmohit.com</strong></a> — the portfolio worth opening first
+  <s>another dev portfolio</s> → <a href="https://nathanmohit.com"><strong>nathanmohit.com</strong></a>
 </p>
 <p align="center">
-  <a href="https://nathanmohit.com">Website</a> ·
-  <a href="https://nathanmohit.com/resume">Resume</a> ·
-  <a href="https://www.linkedin.com/in/nathanmohit/">LinkedIn</a> ·
-  <a href="https://www.instagram.com/nathan.mohit/">Instagram</a>
+  <sub>i made a whole website to use as a portfolio, please don't ask me to make a cool github profile too</sub>
+</p>
+<p align="center">
+  <a href="https://nathanmohit.com">website</a> ·
+  <a href="https://nathanmohit.com/resume">resume</a> ·
+  <a href="https://www.linkedin.com/in/nathanmohit/">linkedin</a>
 </p>
 <br/>
-**Experience** — AWS (2024): protocol-specific codegen for awsJson across 200+ services, Go/Java from zero. Stanford: Fei-Fei Li's PAC (clinical ML + Apple Watch data), Cheng Lab otolaryngology research (Nature *Communications*, Bio-X). Built **Motherly** (iOS maternal-health app → acquired). Co-built **Voyager** (agentic travel; Unusual Ventures Pre-Seed Academy '25).
-**Interests** — shipping product that feels intentional, agentic AI with real context boundaries, puzzles & escape games, cityscapes, over-indexing on outlines.
-**Stack lately** — Next.js, TypeScript, React, Swift, the boring parts done well so the weird ideas can ship.
-<br/>
+<!-- Option A (recommended): subtle self-hosted SVG — no Heroku typing proxy -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Stanford+%E2%86%92+AWS+%E2%86%92+healthcare+%E2%86%92+dev+tools;agentic+AI+%C2%B7+product+%C2%B7+shipping;see+the+work+at+nathanmohit.com" alt="Typing animation" />
+  <a href="https://nathanmohit.com">
+    <img src="https://raw.githubusercontent.com/nathanhit/nathanhit/main/assets/profile-banner.svg" alt="github profile completeness bar" />
+  </a>
 </p>
+<!--
+Option B — no animation, same joke (delete Option A, uncomment):
+<p align="center">
+  <a href="https://nathanmohit.com"><img src="https://img.shields.io/badge/portfolio-nathanmohit.com-d2a8ff?style=flat-square&labelColor=161b22" alt="nathanmohit.com" /></a>
+</p>
+Option C — one custom banner (export SVG, host in repo): https://github.com/ryanpolasky/ryme.md
+  → try "Sleek" or "Terminal", turn loop off, one line: "→ nathanmohit.com"
+Option D — drop the visual entirely; your subline already carries the bit.
+-->
+<br/>
+<details>
+<summary>if you're still scrolling 👀</summary>
+<br/>
+see if you can solve the murder mystery on my website– try sending a message to the useless detective...
+<br/>
+</details>
