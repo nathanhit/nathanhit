@@ -32,7 +32,7 @@
     <tspan fill="#7ee787">open</tspan>
     <tspan fill="#c9d1d9"> portfolio</tspan>
   </text>
-  <rect x="238" y="97" width="8" height="14" rx="1" fill="#c9d1d9">
+  <rect x="264" y="97" width="8" height="14" rx="1" fill="#c9d1d9">
     <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
   </rect>
   <text x="16" y="124" fill="#484f58" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9">UTF-8 · zsh · exit code: go to the website</text>
